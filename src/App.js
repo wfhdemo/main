@@ -1,5 +1,10 @@
+import { demo } from '@wfhdemo/lib1';
+import { lib2 } from '@wfhdemo/lib2';
 import logo from './logo.svg';
 import './App.css';
+
+demo();
+lib2();
 
 function App() {
   return (
@@ -13,8 +18,7 @@ function App() {
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
-          rel="noopener noreferrer"
-        >
+          rel="noopener noreferrer">
           Learn React
         </a>
       </header>

@@ -2121,6 +2121,23 @@
     "@webassemblyjs/wast-parser" "1.9.0"
     "@xtuc/long" "4.2.2"
 
+"@wfhdemo/lib1@1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@wfhdemo/lib1/-/lib1-1.0.0.tgz#362978e7db00af75df544dc690e9326ed7f7b2e1"
+  integrity sha512-RRFrOuo45ppXTJcnlR16cNkUApSC2z1D+24RQDVoZlgKsO3yTT8YqyWu+Jo66PXY7bYugOeXeR265XpA5BbRsA==
+
+"@wfhdemo/lib1@1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@wfhdemo/lib1/-/lib1-1.0.1.tgz#f5f1a768fc27ee5d088eac9ecc8f17e779a42860"
+  integrity sha512-pPqTlAatrSfWAMji13FYBAkhgmS0dtyt0BnoSJJdSqzA+pIoiYHvdM2J/qanlgweupmDE9DPj6LijaAOWZ5bGw==
+
+"@wfhdemo/lib2@1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@wfhdemo/lib2/-/lib2-1.0.0.tgz#5094daba5ba448e50d9e85ee33ea535f14ea6c81"
+  integrity sha512-FrTV/twYwqecpO24FCIz8b1QMF2X7FpbXttN4uML55HzplFjiJJ0Isy36iCDktNY0bR2DbMPTRKVrOEqaw4HwQ==
+  dependencies:
+    "@wfhdemo/lib1" "1.0.0"
+
 "@xtuc/ieee754@^1.2.0":
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/@xtuc/ieee754/-/ieee754-1.2.0.tgz#eef014a3145ae477a1cbc00cd1e552336dceb790"
